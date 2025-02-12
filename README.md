@@ -9,3 +9,5 @@ Currently, two official plugins are available:
 
 
  " Read Me File Changed" 
+ " file change no 1"
+ 
