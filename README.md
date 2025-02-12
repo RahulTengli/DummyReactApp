@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 
 
  " Read Me File Changed" 
+ "file reverted change 1"
